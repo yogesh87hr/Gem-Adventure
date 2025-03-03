@@ -3,11 +3,11 @@ A fun and interactive browser-based game where the player to reach the end first
 
 ## 🚀 How to Play
 1. Clone or download this repository.  
-2. Open `gem-adv.html` in your browser.  
+2. Open `index.html` in your browser.  
 3. Roll the dice to move. Avoid obstacles!
 
 ## 📁 Folder Structure
-- **gem-adv.html**: Main game page.  
+- **index.html**: Main game page.  
 - **gem-adv.css**: Game styling.  
 - **gem-adv.js**: Game logic.  
 - **picture/**: Game images.  
